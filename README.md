@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sarmientosanchezsergiioo@gmail.com**
 
-- ⚡ Fun fact **you know that Tame Impala is only a man, "Kevin Parker" is a genius.. who is Kevin parker**
+- ⚡ Fun fact **you know that Tame Impala is only a man, "Kevin Parker" is a genius.. who is Kevin parker** I love the album of the slow rush
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
