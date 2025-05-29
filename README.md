@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergio</h1>
-<h3 align="center">A student Software and system Engineer from Colombia</h3>
+<h3 align="center">A student Software and system Engineer from Colombia </h3>
 
 - 🔭 I’m currently working on **my students projects.**
 
@@ -7,7 +7,12 @@
 
 - 📫 How to reach me **sarmientosanchezsergiioo@gmail.com**
 
-- ⚡ Fun fact **you know that Tame Impala is only a man, "Kevin Parker" is a genius.. who is Kevin parker** I love the album of the slow rush
+- ⚡ Fun fact **you know that Tame Impala is only a man, "Kevin Parker" is a genius.. who is Kevin parker** I love the album of The Slow Rush
+- ![The Slow Rush (2020) Tame Impala](https://github.com/user-attachments/assets/90a81dc3-94fb-4d95-8ac8-1eff5894bbf1)
+
+<h2>My language for the year:</h2>
+
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarmientoserxch&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
